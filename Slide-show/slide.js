@@ -1,5 +1,6 @@
 
 const ImgArr = [
+    "https://cdn.pixabay.com/photo/2016/05/02/10/13/ship-1366926_640.jpg",
     "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_640.jpg",
     "https://cdn.pixabay.com/photo/2014/08/15/11/29/beach-418742_640.jpg",
     "https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_640.jpg",
@@ -16,8 +17,7 @@ const ImgArr = [
     "https://cdn.pixabay.com/photo/2016/11/08/04/49/jungle-1807476_640.jpg",
     "https://cdn.pixabay.com/photo/2018/04/06/00/25/trees-3294681_640.jpg",
     "https://cdn.pixabay.com/photo/2014/12/24/05/02/drop-of-water-578897_640.jpg",
-    "https://cdn.pixabay.com/photo/2015/01/28/23/34/mountains-615428_640.jpg",
-    "https://cdn.pixabay.com/photo/2016/05/02/10/13/ship-1366926_640.jpg",
+    "https://cdn.pixabay.com/photo/2015/01/28/23/34/mountains-615428_640.jpg", 
     "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_640.jpg",
     "https://cdn.pixabay.com/photo/2013/08/20/15/47/poppies-174276_640.jpg"
     
